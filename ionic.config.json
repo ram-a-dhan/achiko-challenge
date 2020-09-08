@@ -1,0 +1,7 @@
+{
+  "name": "achiko-challenge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
